@@ -1,5 +1,5 @@
 # cloud_computing
-use Amazon Web Services (AWS) to create web-based distributed applications that are secure, scalable, reliable, and cost-optimized
+Use Amazon Web Services (AWS) to create web-based distributed applications that are secure, scalable, reliable, and cost-optimized
 
 Objectives:
 1. Create IAM roles to enable EC2, Lambda, and S3 to interact with each other.
